@@ -36,8 +36,8 @@ We'd be focusing on a special type of neural networks that input nutrition value
 ![image](https://user-images.githubusercontent.com/79988376/173871484-2a1d08e4-e3b6-4b1c-9499-88de748a7f33.png)
 
 Reference: 
-1, Automating Portfolio Optimisation using Python https://towardsdatascience.com/automating-portfolio-optimization-using-python-9f344b9380b9
-2, Foundation of Portfolio Theory, Harry M. Markowitz, Journal of Finance, 1991
-3, Deepdow Documentation: https://deepdow.readthedocs.io/en/latest/auto_examples/end_to_end/getting_started.html#preliminaries
-4, Deep Learning for Portfolio Optimisation, Zihao Zhang, Stefan Zohren, Stephen Roberts, https://arxiv.org/abs/2005.13665
-5, Single Forward Pass https://morioh.com/p/e8bd82d1f622
+1, Automating Portfolio Optimisation using Python https://towardsdatascience.com/automating-portfolio-optimization-using-python-9f344b9380b9</br>
+2, Foundation of Portfolio Theory, Harry M. Markowitz, Journal of Finance, 1991</br>
+3, Deepdow Documentation: https://deepdow.readthedocs.io/en/latest/auto_examples/end_to_end/getting_started.html#preliminaries</br>
+4, Deep Learning for Portfolio Optimisation, Zihao Zhang, Stefan Zohren, Stephen Roberts, https://arxiv.org/abs/2005.13665</br>
+5, Single Forward Pass https://morioh.com/p/e8bd82d1f622</br>

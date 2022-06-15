@@ -35,7 +35,7 @@ While training a time step(current) we can split food carbon emission to 3 disjo
 We'd be focusing on a special type of neural networks that input nutrition value and return a single weight allocation w overall assets such that they sum up to 1. 
 ![image](https://user-images.githubusercontent.com/79988376/173871484-2a1d08e4-e3b6-4b1c-9499-88de748a7f33.png)
 
-Reference: 
+##Reference: </br>
 1, Automating Portfolio Optimisation using Python https://towardsdatascience.com/automating-portfolio-optimization-using-python-9f344b9380b9</br>
 2, Foundation of Portfolio Theory, Harry M. Markowitz, Journal of Finance, 1991</br>
 3, Deepdow Documentation: https://deepdow.readthedocs.io/en/latest/auto_examples/end_to_end/getting_started.html#preliminaries</br>
